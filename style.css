@@ -19,3 +19,12 @@ h2 {
 .casual-shoes-bg {
   background-color: #f1f1f1;
 }
+
+.price {
+  color: #fa804c;
+  font-weight: 700;
+}
+
+.card-title {
+  font-weight: 700;
+}
