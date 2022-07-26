@@ -1,0 +1,16 @@
+body {
+  font-family: "Bebas Neue", cursive;
+}
+
+.header {
+  background-color: rgb(255, 249, 245);
+}
+
+.hero-title {
+  font-size: 4rem;
+  color: #fa804c;
+}
+
+.hero-title span {
+  color: #363958;
+}
